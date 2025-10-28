@@ -47,8 +47,8 @@ The `Hospital_data.sql` file contains the following analytical queries:
 10. Least performing department  
 
 ---
-## Hospital_data_image
- <img width="1536" height="1024" alt="Hospital_data_img" src="https://github.com/user-attachments/assets/ee9b4b8d-6fac-40e9-924d-39272c4af2ee" />
+## 🏥 Hospital_data_image
+ <img width="171" height="113" alt="Hospital_data_img" src="https://github.com/user-attachments/assets/1f8edbbd-2043-4568-8bd7-f7fd1aae01f7" />
 
 
 
