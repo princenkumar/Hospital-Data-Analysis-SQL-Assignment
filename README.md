@@ -63,6 +63,8 @@ The `Hospital_data.sql` file contains the following analytical queries:
 | `Hospital_data.sql` | SQL code for data analysis |
 | `Hospital_Data.csv` | Dataset used in analysis |
 | `Hospital_Data_SQL_Report.pdf` | Short project report explaining insights |
+| `Hospital_data_Assignment.pdf` | Official assignment file from 30 Days SQL Micro Course |
+
 
 ---
 
