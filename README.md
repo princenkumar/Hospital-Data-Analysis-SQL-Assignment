@@ -47,6 +47,9 @@ The `Hospital_data.sql` file contains the following analytical queries:
 10. Least performing department  
 
 ---
+## Hospital_data_image
+  ![Uploading Hospital_data_img.png…]()
+
 
 ## 💡 **Key Insights**
 - Hospitals in **Patna** and **Muzaffarpur** report higher patient counts  
