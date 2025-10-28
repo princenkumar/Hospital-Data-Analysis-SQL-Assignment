@@ -48,7 +48,8 @@ The `Hospital_data.sql` file contains the following analytical queries:
 
 ---
 ## Hospital_data_image
-  ![Uploading Hospital_data_img.png…]()
+ <img width="1536" height="1024" alt="Hospital_data_img" src="https://github.com/user-attachments/assets/ee9b4b8d-6fac-40e9-924d-39272c4af2ee" />
+
 
 
 ## 💡 **Key Insights**
